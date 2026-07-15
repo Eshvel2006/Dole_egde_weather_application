@@ -24,7 +24,7 @@ export function Navbar({ theme, onToggleTheme }: NavbarProps) {
         </motion.div>
         <div>
           <h1 className="text-lg font-display font-bold tracking-tight text-slate-900 dark:text-slate-100 flex items-center gap-1.5 leading-none">
-            DoleEdge Weather 
+            DaleEdge Weather
             <span className="text-xs px-2 py-0.5 rounded-md bg-indigo-500/10 dark:bg-indigo-400/20 text-indigo-600 dark:text-indigo-400 font-bold tracking-wider uppercase">
               SaaS
             </span>

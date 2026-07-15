@@ -1,5 +1,5 @@
 {
-  "name": "DoleEdge Weather",
+  "name": "DaleEdge Weather",
   "description": "A premium glassmorphic weather dashboard featuring air quality indexes, 24-hour timelines, 7-day outlooks, and dynamic ambient weather background loops.",
   "requestFramePermissions": ["geolocation"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
